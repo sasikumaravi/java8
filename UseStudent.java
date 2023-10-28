@@ -4,7 +4,7 @@ public class UseStudent {
 	public static void main(String[] args) {
 		Student s1 = new Student();
 		
-		Student.insName="OneSoft Technology";
+		Student.insName="OneSoft Technologies";
 		
 		
 		s1.name= "Sasi";
